@@ -1,0 +1,578 @@
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Web.Cors.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\BL.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\DTO.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\BL.pdb
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\DTO.pdb
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\DAL.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\DAL.pdb
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\DAL.dll.config
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\BL.dll.config
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\DTO.dll.config
+C:\יעל\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\BL.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\DTO.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Web.Cors.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\DAL.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\BL.pdb
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\BL.dll.config
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\DTO.pdb
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\DTO.dll.config
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\DAL.pdb
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\bin\DAL.dll.config
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\WebApplication1.dll.config
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\WebApplication1.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\WebApplication1.pdb
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\csc.exe
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\csc.exe.config
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\csc.rsp
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\csi.exe
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\csi.exe.config
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\csi.rsp
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Console.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\vbc.exe
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\vbc.rsp
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\BL.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\DTO.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\EntityFramework.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\System.Web.Cors.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\System.Web.Http.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\DAL.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\BL.pdb
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\BL.dll.config
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\DTO.pdb
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\DTO.dll.config
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\EntityFramework.xml
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\System.Web.Http.xml
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\DAL.pdb
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\bin\DAL.dll.config
+C:\Esther\פרויקט גמר\wedding\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\WebApplication1.dll.config
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\WebApplication1.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\WebApplication1.pdb
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\csc.exe
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\csc.exe.config
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\csc.rsp
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\csi.exe
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\csi.exe.config
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\csi.rsp
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Console.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\vbc.exe
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\vbc.rsp
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\BL.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\DTO.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\EntityFramework.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\System.Web.Cors.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\System.Web.Http.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\DAL.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\BL.pdb
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\BL.dll.config
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\DTO.pdb
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\DTO.dll.config
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\EntityFramework.xml
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\System.Web.Http.xml
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\DAL.pdb
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\bin\DAL.dll.config
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\WebApplication1.dll.config
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\WebApplication1.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\WebApplication1.pdb
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\csc.exe
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\csc.exe.config
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\csc.rsp
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\csi.exe
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\csi.exe.config
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\csi.rsp
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Console.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\vbc.exe
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\vbc.exe.config
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\vbc.rsp
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\BL.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\DTO.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\EntityFramework.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\Newtonsoft.Json.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\System.Web.Cors.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\System.Web.Http.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\DAL.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\BL.pdb
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\BL.dll.config
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\DTO.pdb
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\DTO.dll.config
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\EntityFramework.xml
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\System.Web.Http.xml
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\Newtonsoft.Json.xml
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\DAL.pdb
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\bin\DAL.dll.config
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\obj\Debug\WebApplication1.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\WebApplication1.dll.config
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\WebApplication1.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\WebApplication1.pdb
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\csc.exe
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\csc.exe.config
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\csc.rsp
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\csi.exe
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\csi.exe.config
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\csi.rsp
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Console.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\vbc.exe
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\vbc.exe.config
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\vbc.rsp
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\BL.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\DTO.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\EntityFramework.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\Newtonsoft.Json.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\System.Web.Cors.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\System.Web.Http.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\DAL.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\BL.pdb
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\BL.dll.config
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\DTO.pdb
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\DTO.dll.config
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\EntityFramework.xml
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\System.Web.Http.xml
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\Newtonsoft.Json.xml
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\DAL.pdb
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\bin\DAL.dll.config
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\obj\Debug\WebApplication1.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\WebApplication1.dll.config
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\WebApplication1.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\WebApplication1.pdb
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\csc.exe
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\csc.exe.config
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\csc.rsp
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\csi.exe
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\csi.exe.config
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\csi.rsp
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Console.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\vbc.exe
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\vbc.exe.config
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\vbc.rsp
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\BL.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\DTO.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\EntityFramework.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\Newtonsoft.Json.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Cors.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Http.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\DAL.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\BL.pdb
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\BL.dll.config
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\DTO.pdb
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\DTO.dll.config
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\EntityFramework.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Http.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\Newtonsoft.Json.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\DAL.pdb
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\DAL.dll.config
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\obj\Debug\WebApplication1.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\Antlr3.Runtime.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Helpers.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Mvc.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Optimization.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Razor.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.WebPages.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\WebGrease.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Helpers.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Mvc.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Optimization.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.Razor.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.WebPages.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\WebApplication1\bin\System.Web.WebPages.Razor.xml

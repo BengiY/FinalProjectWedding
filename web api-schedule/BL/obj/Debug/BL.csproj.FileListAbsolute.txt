@@ -1,0 +1,126 @@
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\BL.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\BL.pdb
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\DAL.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\DTO.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\EntityFramework.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\DAL.pdb
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\DAL.dll.config
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\DTO.pdb
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\EntityFramework.xml
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\obj\Debug\BL.csproj.CopyComplete
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\obj\Debug\BL.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\obj\Debug\BL.pdb
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\BL.dll.config
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\DTO.dll.config
+C:\יעל\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\BL.dll.config
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\BL.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\BL.pdb
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\DAL.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\DTO.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\EntityFramework.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\DAL.pdb
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\DAL.dll.config
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\DTO.pdb
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\DTO.dll.config
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\EntityFramework.xml
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\obj\Debug\BL.dll
+C:\Esther\פרויקט גמר\web api\WebApplication1\BL\obj\Debug\BL.pdb
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\obj\Debug\BL.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\obj\Debug\BL.pdb
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\bin\Debug\BL.dll.config
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\bin\Debug\BL.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\bin\Debug\BL.pdb
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\bin\Debug\DAL.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\bin\Debug\DTO.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\bin\Debug\EntityFramework.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\bin\Debug\DAL.pdb
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\bin\Debug\DAL.dll.config
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\bin\Debug\DTO.pdb
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\bin\Debug\DTO.dll.config
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\bin\Debug\EntityFramework.xml
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Esther\פרויקט גמר\wedding\web api-schedule\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\bin\Debug\BL.dll.config
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\bin\Debug\BL.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\bin\Debug\BL.pdb
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\bin\Debug\DAL.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\bin\Debug\DTO.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\bin\Debug\EntityFramework.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\bin\Debug\DAL.pdb
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\bin\Debug\DAL.dll.config
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\bin\Debug\DTO.pdb
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\bin\Debug\DTO.dll.config
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\bin\Debug\EntityFramework.xml
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\obj\Debug\BL.dll
+C:\Esther\newnew\final-project-finalllllllly-master\web api-schedule\BL\obj\Debug\BL.pdb
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\bin\Debug\BL.dll.config
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\bin\Debug\BL.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\bin\Debug\BL.pdb
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\bin\Debug\DAL.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\bin\Debug\DTO.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\bin\Debug\EntityFramework.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\bin\Debug\DAL.pdb
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\bin\Debug\DAL.dll.config
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\bin\Debug\DTO.pdb
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\bin\Debug\DTO.dll.config
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\bin\Debug\EntityFramework.xml
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\obj\Debug\BL.csproj.CopyComplete
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\obj\Debug\BL.dll
+C:\יעל\פרויקט גמר\project\web api-schedule\BL\obj\Debug\BL.pdb
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\bin\Debug\BL.dll.config
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\bin\Debug\BL.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\bin\Debug\BL.pdb
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\bin\Debug\DAL.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\bin\Debug\DTO.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\bin\Debug\EntityFramework.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\bin\Debug\DAL.pdb
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\bin\Debug\DAL.dll.config
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\bin\Debug\DTO.pdb
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\bin\Debug\DTO.dll.config
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\bin\Debug\EntityFramework.xml
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\obj\Debug\BL.csproj.CopyComplete
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\obj\Debug\BL.dll
+C:\יעל\פרויקט גמר\new\web api-schedule\BL\obj\Debug\BL.pdb
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\bin\Debug\BL.dll.config
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\bin\Debug\BL.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\bin\Debug\BL.pdb
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\bin\Debug\DAL.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\bin\Debug\DTO.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\bin\Debug\EntityFramework.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\bin\Debug\DAL.pdb
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\bin\Debug\DAL.dll.config
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\bin\Debug\DTO.pdb
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\bin\Debug\DTO.dll.config
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\bin\Debug\EntityFramework.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\obj\Debug\BL.csproj.CopyComplete
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\obj\Debug\BL.dll
+C:\יעל\פרויקט גמר\new calendar\web api-schedule\BL\obj\Debug\BL.pdb

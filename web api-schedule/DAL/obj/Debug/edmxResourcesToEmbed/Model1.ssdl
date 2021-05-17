@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="projectDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Business_tbl">
+    <Key>
+      <PropertyRef Name="BusinessCode" />
+    </Key>
+    <Property Name="BusinessCode" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BusinessName" Type="varchar" MaxLength="50" />
+    <Property Name="CategoryCode" Type="int" />
+    <Property Name="BusinessOwnerCode" Type="varchar" MaxLength="6" />
+    <Property Name="FullAddress" Type="varchar" MaxLength="60" />
+    <Property Name="Fhone" Type="varchar" MaxLength="12" />
+    <Property Name="BusinessDescription" Type="varchar" MaxLength="8000" />
+  </EntityType>
+  <EntityType Name="BusinessOpeningHours_tbl">
+    <Key>
+      <PropertyRef Name="BusinessOpeningHourCode" />
+    </Key>
+    <Property Name="BusinessOpeningHourCode" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BusinessCode" Type="int" />
+    <Property Name="StartHour" Type="time" Precision="7" />
+    <Property Name="DayInWeek" Type="varchar" MaxLength="6" />
+    <Property Name="EndHour" Type="time" Precision="7" />
+  </EntityType>
+  <EntityType Name="Category_tbl">
+    <Key>
+      <PropertyRef Name="CategoryCode" />
+    </Key>
+    <Property Name="CategoryCode" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CategoryName" Type="varchar" MaxLength="20" />
+    <Property Name="GroomOrBride" Type="int" />
+    <Property Name="AverageDuration" Type="int" />
+  </EntityType>
+  <EntityType Name="Events_tbl">
+    <Key>
+      <PropertyRef Name="EventCode" />
+    </Key>
+    <Property Name="EventCode" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserCode" Type="int" />
+    <Property Name="GroomOrBride" Type="bit" />
+    <Property Name="EventDate" Type="date" />
+  </EntityType>
+  <EntityType Name="Schedule_tbl">
+    <Key>
+      <PropertyRef Name="ScheduleCode" />
+    </Key>
+    <Property Name="ScheduleCode" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EventCode" Type="int" />
+    <Property Name="BusinessCode" Type="int" />
+    <Property Name="EventDate" Type="date" />
+    <Property Name="Duration" Type="int" />
+    <Property Name="Done" Type="bit" />
+    <Property Name="Cost" Type="int" />
+    <Property Name="Hour" Type="time" Precision="7" />
+    <Property Name="Description" Type="varchar" MaxLength="100" />
+    <Property Name="Subject" Type="varchar" MaxLength="20" />
+    <Property Name="ScheduleId" Type="varchar" MaxLength="8000" />
+  </EntityType>
+  <EntityType Name="Users_tbl">
+    <Key>
+      <PropertyRef Name="UserCode" />
+    </Key>
+    <Property Name="UserCode" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="varchar" MaxLength="20" />
+    <Property Name="UserLastName" Type="varchar" MaxLength="20" />
+    <Property Name="UserMail" Type="varchar" MaxLength="30" />
+    <Property Name="UserPassword" Type="varchar" MaxLength="6" />
+    <Property Name="UserType" Type="bit" />
+  </EntityType>
+  <Association Name="FK__Business___Categ__3C69FB99">
+    <End Role="Category_tbl" Type="Self.Category_tbl" Multiplicity="0..1" />
+    <End Role="Business_tbl" Type="Self.Business_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category_tbl">
+        <PropertyRef Name="CategoryCode" />
+      </Principal>
+      <Dependent Role="Business_tbl">
+        <PropertyRef Name="CategoryCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BusinessO__Busin__160F4887">
+    <End Role="Business_tbl" Type="Self.Business_tbl" Multiplicity="0..1" />
+    <End Role="BusinessOpeningHours_tbl" Type="Self.BusinessOpeningHours_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business_tbl">
+        <PropertyRef Name="BusinessCode" />
+      </Principal>
+      <Dependent Role="BusinessOpeningHours_tbl">
+        <PropertyRef Name="BusinessCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Events_tb__UserC__3F466844">
+    <End Role="Users_tbl" Type="Self.Users_tbl" Multiplicity="0..1" />
+    <End Role="Events_tbl" Type="Self.Events_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users_tbl">
+        <PropertyRef Name="UserCode" />
+      </Principal>
+      <Dependent Role="Events_tbl">
+        <PropertyRef Name="UserCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Schedule___Busin__46E78A0C">
+    <End Role="Business_tbl" Type="Self.Business_tbl" Multiplicity="0..1" />
+    <End Role="Schedule_tbl" Type="Self.Schedule_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business_tbl">
+        <PropertyRef Name="BusinessCode" />
+      </Principal>
+      <Dependent Role="Schedule_tbl">
+        <PropertyRef Name="BusinessCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Schedule___Event__45F365D3">
+    <End Role="Events_tbl" Type="Self.Events_tbl" Multiplicity="0..1" />
+    <End Role="Schedule_tbl" Type="Self.Schedule_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Events_tbl">
+        <PropertyRef Name="EventCode" />
+      </Principal>
+      <Dependent Role="Schedule_tbl">
+        <PropertyRef Name="EventCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="projectDBModelStoreContainer">
+    <EntitySet Name="Business_tbl" EntityType="Self.Business_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BusinessOpeningHours_tbl" EntityType="Self.BusinessOpeningHours_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Category_tbl" EntityType="Self.Category_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Events_tbl" EntityType="Self.Events_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Schedule_tbl" EntityType="Self.Schedule_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users_tbl" EntityType="Self.Users_tbl" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Business___Categ__3C69FB99" Association="Self.FK__Business___Categ__3C69FB99">
+      <End Role="Category_tbl" EntitySet="Category_tbl" />
+      <End Role="Business_tbl" EntitySet="Business_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BusinessO__Busin__160F4887" Association="Self.FK__BusinessO__Busin__160F4887">
+      <End Role="Business_tbl" EntitySet="Business_tbl" />
+      <End Role="BusinessOpeningHours_tbl" EntitySet="BusinessOpeningHours_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Events_tb__UserC__3F466844" Association="Self.FK__Events_tb__UserC__3F466844">
+      <End Role="Users_tbl" EntitySet="Users_tbl" />
+      <End Role="Events_tbl" EntitySet="Events_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Schedule___Busin__46E78A0C" Association="Self.FK__Schedule___Busin__46E78A0C">
+      <End Role="Business_tbl" EntitySet="Business_tbl" />
+      <End Role="Schedule_tbl" EntitySet="Schedule_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Schedule___Event__45F365D3" Association="Self.FK__Schedule___Event__45F365D3">
+      <End Role="Events_tbl" EntitySet="Events_tbl" />
+      <End Role="Schedule_tbl" EntitySet="Schedule_tbl" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

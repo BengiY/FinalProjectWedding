@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="projectDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Business_tbl">
+    <Key>
+      <PropertyRef Name="BusinessCode" />
+    </Key>
+    <Property Name="BusinessCode" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BusinessName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CategoryCode" Type="Int32" />
+    <Property Name="BusinessOwnerCode" Type="String" MaxLength="6" FixedLength="false" Unicode="false" />
+    <Property Name="FullAddress" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="Fhone" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+    <Property Name="BusinessDescription" Type="String" MaxLength="8000" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Category_tbl" Relationship="Self.FK__Business___Categ__3C69FB99" FromRole="Business_tbl" ToRole="Category_tbl" />
+    <NavigationProperty Name="Schedule_tbl" Relationship="Self.FK__Schedule___Busin__46E78A0C" FromRole="Business_tbl" ToRole="Schedule_tbl" />
+    <NavigationProperty Name="BusinessOpeningHours_tbl" Relationship="projectDBModel.FK__BusinessO__Busin__160F4887" FromRole="Business_tbl" ToRole="BusinessOpeningHours_tbl" />
+  </EntityType>
+  <EntityType Name="Category_tbl">
+    <Key>
+      <PropertyRef Name="CategoryCode" />
+    </Key>
+    <Property Name="CategoryCode" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="GroomOrBride" Type="Int32" />
+    <Property Name="AverageDuration" Type="Int32" />
+    <NavigationProperty Name="Business_tbl" Relationship="Self.FK__Business___Categ__3C69FB99" FromRole="Category_tbl" ToRole="Business_tbl" />
+  </EntityType>
+  <EntityType Name="Events_tbl">
+    <Key>
+      <PropertyRef Name="EventCode" />
+    </Key>
+    <Property Name="EventCode" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserCode" Type="Int32" />
+    <Property Name="EventDate" Type="DateTime" Precision="0" />
+    <Property Name="GroomOrBride" Type="Boolean" />
+    <NavigationProperty Name="Users_tbl" Relationship="Self.FK__Events_tb__UserC__3F466844" FromRole="Events_tbl" ToRole="Users_tbl" />
+    <NavigationProperty Name="Schedule_tbl" Relationship="Self.FK__Schedule___Event__45F365D3" FromRole="Events_tbl" ToRole="Schedule_tbl" />
+  </EntityType>
+  <EntityType Name="Schedule_tbl">
+    <Key>
+      <PropertyRef Name="ScheduleCode" />
+    </Key>
+    <Property Name="ScheduleCode" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EventCode" Type="Int32" />
+    <Property Name="BusinessCode" Type="Int32" />
+    <Property Name="EventDate" Type="DateTime" Precision="0" />
+    <Property Name="Duration" Type="Int32" />
+    <Property Name="Done" Type="Boolean" />
+    <Property Name="Cost" Type="Int32" />
+    <Property Name="Hour" Type="Time" Precision="7" />
+    <Property Name="Description" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Subject" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Business_tbl" Relationship="Self.FK__Schedule___Busin__46E78A0C" FromRole="Schedule_tbl" ToRole="Business_tbl" />
+    <NavigationProperty Name="Events_tbl" Relationship="Self.FK__Schedule___Event__45F365D3" FromRole="Schedule_tbl" ToRole="Events_tbl" />
+    <Property Name="ScheduleId" Type="String" MaxLength="8000" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Users_tbl">
+    <Key>
+      <PropertyRef Name="UserCode" />
+    </Key>
+    <Property Name="UserCode" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="UserLastName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="UserMail" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="UserPassword" Type="String" MaxLength="6" FixedLength="false" Unicode="false" />
+    <Property Name="UserType" Type="Boolean" />
+    <NavigationProperty Name="Events_tbl" Relationship="Self.FK__Events_tb__UserC__3F466844" FromRole="Users_tbl" ToRole="Events_tbl" />
+  </EntityType>
+  <Association Name="FK__Business___Categ__3C69FB99">
+    <End Role="Category_tbl" Type="Self.Category_tbl" Multiplicity="0..1" />
+    <End Role="Business_tbl" Type="Self.Business_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category_tbl">
+        <PropertyRef Name="CategoryCode" />
+      </Principal>
+      <Dependent Role="Business_tbl">
+        <PropertyRef Name="CategoryCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Schedule___Busin__46E78A0C">
+    <End Role="Business_tbl" Type="Self.Business_tbl" Multiplicity="0..1" />
+    <End Role="Schedule_tbl" Type="Self.Schedule_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business_tbl">
+        <PropertyRef Name="BusinessCode" />
+      </Principal>
+      <Dependent Role="Schedule_tbl">
+        <PropertyRef Name="BusinessCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Events_tb__UserC__3F466844">
+    <End Role="Users_tbl" Type="Self.Users_tbl" Multiplicity="0..1" />
+    <End Role="Events_tbl" Type="Self.Events_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users_tbl">
+        <PropertyRef Name="UserCode" />
+      </Principal>
+      <Dependent Role="Events_tbl">
+        <PropertyRef Name="UserCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Schedule___Event__45F365D3">
+    <End Role="Events_tbl" Type="Self.Events_tbl" Multiplicity="0..1" />
+    <End Role="Schedule_tbl" Type="Self.Schedule_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Events_tbl">
+        <PropertyRef Name="EventCode" />
+      </Principal>
+      <Dependent Role="Schedule_tbl">
+        <PropertyRef Name="EventCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="projectDBEntities5" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Business_tbl" EntityType="Self.Business_tbl" />
+    <EntitySet Name="Category_tbl" EntityType="Self.Category_tbl" />
+    <EntitySet Name="Events_tbl" EntityType="Self.Events_tbl" />
+    <EntitySet Name="Schedule_tbl" EntityType="Self.Schedule_tbl" />
+    <EntitySet Name="Users_tbl" EntityType="Self.Users_tbl" />
+    <AssociationSet Name="FK__Business___Categ__3C69FB99" Association="Self.FK__Business___Categ__3C69FB99">
+      <End Role="Category_tbl" EntitySet="Category_tbl" />
+      <End Role="Business_tbl" EntitySet="Business_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Schedule___Busin__46E78A0C" Association="Self.FK__Schedule___Busin__46E78A0C">
+      <End Role="Business_tbl" EntitySet="Business_tbl" />
+      <End Role="Schedule_tbl" EntitySet="Schedule_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Events_tb__UserC__3F466844" Association="Self.FK__Events_tb__UserC__3F466844">
+      <End Role="Users_tbl" EntitySet="Users_tbl" />
+      <End Role="Events_tbl" EntitySet="Events_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Schedule___Event__45F365D3" Association="Self.FK__Schedule___Event__45F365D3">
+      <End Role="Events_tbl" EntitySet="Events_tbl" />
+      <End Role="Schedule_tbl" EntitySet="Schedule_tbl" />
+    </AssociationSet>
+    <EntitySet Name="BusinessOpeningHours_tbl" EntityType="projectDBModel.BusinessOpeningHours_tbl" />
+    <AssociationSet Name="FK__BusinessO__Busin__160F4887" Association="projectDBModel.FK__BusinessO__Busin__160F4887">
+      <End Role="Business_tbl" EntitySet="Business_tbl" />
+      <End Role="BusinessOpeningHours_tbl" EntitySet="BusinessOpeningHours_tbl" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="BusinessOpeningHours_tbl">
+    <Key>
+      <PropertyRef Name="BusinessOpeningHourCode" />
+    </Key>
+    <Property Name="BusinessOpeningHourCode" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BusinessCode" Type="Int32" />
+    <Property Name="StartHour" Type="Time" Precision="7" />
+    <Property Name="DayInWeek" Type="String" MaxLength="6" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Business_tbl" Relationship="projectDBModel.FK__BusinessO__Busin__160F4887" FromRole="BusinessOpeningHours_tbl" ToRole="Business_tbl" />
+    <Property Name="EndHour" Type="Time" Precision="7" />
+  </EntityType>
+  <Association Name="FK__BusinessO__Busin__160F4887">
+    <End Type="projectDBModel.Business_tbl" Role="Business_tbl" Multiplicity="0..1" />
+    <End Type="projectDBModel.BusinessOpeningHours_tbl" Role="BusinessOpeningHours_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business_tbl">
+        <PropertyRef Name="BusinessCode" />
+      </Principal>
+      <Dependent Role="BusinessOpeningHours_tbl">
+        <PropertyRef Name="BusinessCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
