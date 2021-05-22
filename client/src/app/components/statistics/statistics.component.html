@@ -1,0 +1,29 @@
+
+<div *ngIf="pieChartData.length>0" style="display: block">
+    <canvas baseChart
+            [data]="pieChartData"
+            [labels]="pieChartLabels"
+            [chartType]="pieChartType"></canvas>
+  </div>
+  <p *ngIf="showMessage" style="direction: rtl;;text-align: center;font-size: 40px;"> אין לך  עדיין מטלות שבוצעו  <a href="/form-task">לחץ</a> כדי להוסיף</p>
+  <div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':display}">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 style="font-size: 20px;" class="modal-title">אינך מחובר!</h4>
+
+
+                        <button type="button" class="btn-close" aria-label="Close" (click)="onCloseHandled()"></button>
+
+            </div>
+            <div class="modal-body">
+          <p  style="margin-right:20px;    font-size:20px; ">בחר באחת מהאופציות הבאות:</p>
+          <a class="nav-link" routerLink="/login" routerLinkActive="active">התחברות</a>
+          <a class="nav-link" routerLink="/register" routerLinkActive="active">הרשמה</a>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn-ok btn btn-default" (click)="onCloseHandled()">סגור</button>
+            </div>
+        </div>
+    </div>
+    </div>

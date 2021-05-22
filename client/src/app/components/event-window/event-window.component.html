@@ -1,0 +1,151 @@
+<body>
+
+  <div class="modal-content">
+    <!-- <form #f="ngForm" class="form-horizontal"> -->
+    <div class="modal-header">
+      <h1 class="modal-title" style="direction: rtl; text-align: center;">{{ model.title }}</h1>
+      <button type="button" style="margin:inherit" class="btn-close" aria-label="Close"
+        (click)="modal.dismiss()"></button>
+    </div>
+    <div class="modal-body">
+      <mat-form-field appearance="legacy">
+        <mat-label>נושא</mat-label>
+        <input type="text" [(ngModel)]="model.title" name="subject" required matInput>
+      </mat-form-field>
+
+      <div class="form-row">
+        <div *ngIf="viewChooseBussinessAndCategory">
+          <!-- <div class="form-group col-md-12">{{category}}</div>
+          <br> -->
+          <div style="text-align: center;" class="form-group col-md-12">{{business}}</div>
+          <a [routerLink]="" (click)="showGroup()">לשינוי עסק</a>
+
+        </div>
+      </div>
+
+      <div *ngIf="group">
+        <mat-form-field>
+          <mat-label>בחירת קטגוריה</mat-label>
+          <mat-select (selectionChange)="onSelectedCategory($event.value)">
+            <mat-option *ngFor="let x of arrCategory" [value]="x.CategoryCode">
+              {{x.CategoryName}}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+        <br>
+        <!-- (ngModelChange)="onSelectedCategory($event.value)" -->
+        <!-- <p>בחירת קטגוריה</p>
+        <select id="standard-select">
+          <option *ngFor="let x of arrCategory" [value]="x.CategoryCode"> {{x.CategoryName}}</option>
+        </select> -->
+
+        <!-- <select   class="form-select" aria-label="Default select example">
+          <option *ngFor="let x of arrCategory" [value]="x.CategoryCode" > {{x.CategoryName}}</option>
+        </select> -->
+          <div *ngIf="viewBusiness">
+
+
+            <mat-form-field>
+              <mat-label>בחירת עסק</mat-label>
+              <mat-select [(ngModel)]="newSchedule.BusinessCode"
+                (selectionChange)="viewBusinessDetailsFunc($event.value)">
+                <mat-option *ngFor="let x of arrBusiness" [value]="x.BusinessCode">
+                  {{x.BusinessName}}
+                </mat-option>
+              </mat-select>
+            </mat-form-field>
+
+
+        </div>
+
+      </div>
+      <br>
+
+      <label for="fromDate">שעה ותאריך </label>
+      <br>
+
+
+      <mat-form-field>
+        <mat-label>תאריך:</mat-label>
+        <input matInput #input="ngModel" [(ngModel)]="model.from" [matDatepicker]="picker2" name="fromDate">
+        <mat-datepicker-toggle matSuffix [for]="picker2"></mat-datepicker-toggle>
+        <mat-datepicker #picker2></mat-datepicker>
+      </mat-form-field><br>
+      <div>
+        <!-- <p>:שעה</p> -->
+        <ngb-timepicker class="btn btn-outline-secondary mr-1" placement="right" ngbTooltip="שים לב לפרטי עסק זה מטה 🔻" class="tm-picker" [(ngModel)]="fromTime" name="fromTime" [spinners]="true">
+        </ngb-timepicker>
+      </div>
+
+      <div class="form-row">
+        <div *ngIf="viewTo">
+          <div class="form-group col-md-6">
+            <label for="fromDate">תאריך סיום</label>
+            <mat-form-field>
+              <mat-label>תאריך סיום:</mat-label>
+              <input matInput #input="ngModel" [(ngModel)]="model.to" [matDatepicker]="picker2" name="toDate">
+              <mat-datepicker-toggle matSuffix [for]="picker2"></mat-datepicker-toggle>
+              <mat-datepicker #picker2></mat-datepicker>
+            </mat-form-field>
+
+            <!-- <div class="input-group input-group-sm">
+              <input class="form-control form-control-sm" placeholder="yyyy-mm-dd" name="toDate" [(ngModel)]="model.to"
+                ngbDatepicker #toDatePicker="ngbDatepicker" #c2="ngModel">
+              <div class="input-group-append">
+                <button class="btn btn-sm btn-outline-secondary calendar" (click)="toDatePicker.toggle()" type="button">
+                  <i class="fa fa-calendar"></i>
+                </button>
+              </div>
+            </div> -->
+          </div>
+          <div class="form-group col-md-6">
+            <div class="form-group">
+              <ngb-timepicker class="tm-picker" [(ngModel)]="toTime" name="toTime" [spinners]="true"></ngb-timepicker>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-body">
+        <mat-form-field class="example-full-width">
+          <mat-label>תיאור</mat-label>
+          <textarea (keyup)="onKey($event)" [value]="inputValue" matInput></textarea>
+        </mat-form-field>
+
+        <!-- <textarea (keyup)="onKey($event)" [value]="inputValue" class="form-control form-control-sm"></textarea> -->
+      </div>
+
+    </div>
+    <div class="modal-footer">
+      <button type="button" class="btn-ok btn btn-primary" (click)="clearFields()"> למשימה נוספת </button>
+      <button type="button" class="btn-ok btn btn-primary" (click)="save()">שמירה</button>
+    </div>
+    <!-- </form > -->
+    <form *ngIf="viewBusinessDetails" class="BusinessDetails">
+      <div>{{currentBusiness.BusinessName}}</div>
+      <div>{{currentBusiness.FullAddress}}</div>
+      <div>{{currentBusiness.Fhone}}</div>
+      <div>{{currentBusiness.BusinessDescription}}</div>
+      <div *ngFor="let x of openHourArr ">
+        {{x.DayInWeek}}: {{x.StartHour}}-{{x.EndHour}}
+      </div>
+
+      <div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':display}">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h4 class="modal-title">{{title}}</h4>
+              <button type="button" class="close" aria-label="Close" (click)="onCloseHandled()"><span
+                  aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body">
+              <p>{{subject}}</p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" (click)="onCloseHandled()">סגור</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+</body>

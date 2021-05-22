@@ -1,0 +1,271 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+@import "~angular-notifier/styles/core.css";
+@import "~angular-notifier/styles/themes/theme-material.css";
+@import "~angular-notifier/styles/types/type-default.css";
+@import "~angular-notifier/styles/types/type-info.css";
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@font-face {
+  font-family: system-ui;
+  
+  src: url(font/SecularOne-Regular.ttf);
+}
+*{
+  font-family:system-ui !important ;
+}
+html, body { height: 100%; 
+  background-position:unset;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment:fixed;
+  background-position-y: 100%;
+  
+  // background-position-x: 90%;
+  background-image: url("/../../assets/background-images/2.jpg")}
+body { margin: 0; font-family:system-ui; }
+
+
+mat-form-field{
+text-align: right;
+direction: rtl;
+}
+
+form {
+  padding-top: 6%;
+  width: 30%;
+  text-align: center;
+  margin: auto;
+  margin-right: 30%;
+}
+.btn-log{
+  padding-top: 5px !important;
+  margin-left: 10px !important;
+
+}
+.btn-ok{
+  background-color: #be626e !important;
+  border-radius: 17px !important;
+  color: #ffffff !important;
+  border: none !important;
+  font-size: 20px !important;
+}
+::ng-deep .cdk-overlay-connected-position-bounding-box { z-index: 10000 !important; }
+
+::ng-deep .cdk-overlay-connected-position-bounding-box {
+  z-index: 10000 !important;
+  }
+  
+  ::ng-deep .cdk-global-overlay-wrapper {
+  z-index: 1000 !important;
+  }
+.cdk-global-overlay-wrapper, .cdk-overlay-container {
+  z-index: 10000 !important;
+  }
+.ngb-tp{
+  margin-left: 190px !important;
+
+}
+.btn{
+  cursor: pointer !important;
+   
+}
+
+pre.code {
+  font-size: 13px !important;
+  border: 1px solid #333;
+  padding: 6px 10px;
+  border-radius: 10px;
+  background: #444;
+  color: #eee;
+}
+.ngb-tp-input {
+  height: calc(1.8125rem + 2px);
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  border-radius: 0.2rem;
+}
+
+button {
+  &:active,
+  &:focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+}
+
+.tm-picker {
+  fieldset {
+    margin-top: 1px;
+  }
+  .btn-link {
+    font-size: 10px;
+  }
+}
+
+.float-button {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px;
+  background-color: #c62828;
+  color: #fff !important;
+  border-radius: 50px;
+  text-align: center;
+  box-shadow: 2px 2px 3px #555;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  z-index: 10000;
+  &:hover {
+    background-color: #e53935;
+  }
+  > i {
+    margin-top: 22px;
+  }
+}
+
+.form-group {
+  margin-bottom: 0;
+}
+
+.form-group label {
+  font-size: 13px;
+}
+
+.nav {
+  position: sticky;
+  direction: rtl;
+  text-align: right;
+  border-bottom: 1px solid goldenrod;
+  // display: flex;
+    flex-wrap:wrap-reverse;
+    padding-left: 0;
+    margin-bottom: 0;
+    margin-top: 0%;
+margin-top: initial;    list-style: none;
+}
+// .nav-link {
+//   text-transform: uppercase;
+// // font-family: "MyFont";
+// color:rgb(160,89,97);
+// font-size: 25px;
+// }
+
+// .nav-link:hover{
+//   color: rgb(0, 0, 0);
+// }
+
+.alert {
+  font-size: 13px;
+  padding: 5px 8px;
+}
+
+.event-template {
+  position: relative;
+  font-size: 12px;
+  width: 100%;
+  overflow: hidden;
+  display: block;
+  padding: 0 5px;
+  margin: 0;
+  text-align: left;
+  color: #fff;
+  border-left: 2px solid #fff;
+  b {
+    display: block;
+    background: #eee;
+    color: #333;
+    border: 1px solid #111;
+    border-radius: 10px;
+    // font-family: consolas;
+    margin: 5px 0;
+    padding: 0 5px;
+    font-size: 11px;
+    text-align: center;
+  }
+}
+
+.github-me {
+  position: absolute;
+  left: auto;
+  right: 0;
+  z-index: 1000;
+}
+// .nav-link{
+//   color: #333;
+//   text-align: right;
+//   direction: rtl;
+// }
+// .nav-link.active{
+//   color: goldenrod;
+// }
+
+// .ax-scheduler__month-view__day .ax-scheduler__month-view__day__events{
+//   background-color: rgb(0, 0, 0) !important;
+
+// }
+// .ax-scheduler__month-view__day__label{
+//   background-color: black !important;
+// }
+// .ax-scheduler.dark .ax-scheduler__day-view__body>div:not(.ax-scheduler__event-tile)>div.ax-scheduler__day-view__event-column, .ax-scheduler.dark .ax-scheduler__month-view__day{
+//   background-color: black !important;
+// }
+// .ax-scheduler.dark .ax-scheduler__month-view, .ax-scheduler.dark .ax-scheduler__month-view__day{
+//   background-color: black !important;
+// }
+// .row{
+//   background-color: black;
+// }
+// .ax-scheduler__header .ax-scheduler__header__date-part .ax-scheduler__header__date-part__nav>button svg, .ax-scheduler__header .ax-scheduler__header__date-part .ax-scheduler__header__date-part__nav>div svg {
+//   display: block;
+//   height: 20px;
+//   vertical-align:middle;
+//   background-color: black;
+// }
+// .ax-scheduler.dark .ax-scheduler__header button:active {
+//   background: #000000!important;
+// }
+// .ax-scheduler.dark .ax-scheduler__header button {
+//   background: #000000!important;
+//   border: none!important;
+//   color: #fff!important;
+// }
+.ax-scheduler.dark .ax-scheduler__header__nav-view-part button.active {
+  border-bottom: 2px solid goldenrod!important;
+}
+.ax-scheduler.dark .ax-scheduler__day-view__body>div:not(.ax-scheduler__event-tile)>div.ax-scheduler__day-view__event-column, .ax-scheduler.dark .ax-scheduler__month-view__day {
+  background-color: #000000!important;
+}
+
+
+
+.ax-scheduler {
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    display: block;
+    height: 90vh;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    user-select: none;
+}
+// .ax-scheduler__header__nav-view-part button.active {
+//     border-bottom: 2px solid  goldenrod!important;
+//   }
+//   :hover {
+  
+//     color: goldenrod;
+//     text-shadow: 1px 1px 1px rgb(255, 255, 255);
+// }
+// *::before {
+
+//     color: #fff;
+//     text-shadow: 2px 2px 2px goldenrod;
+// }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

@@ -1,0 +1,42 @@
+<form [formGroup]="form" class="form-horizontal justify-content-center">
+
+
+    <mat-form-field appearance="legacy">
+        <mat-label>שם משתמש</mat-label>
+        <input type="text" [(ngModel)]="getUser.UserName" formControlName="UserNameF" required matInput>
+    </mat-form-field>
+    <br>
+
+        
+    <mat-form-field appearance="legacy">
+        <mat-label>הקש סיסמא</mat-label>
+        <input type="password" [(ngModel)]="getUser.UserPassword" formControlName="UserPasswordF" required matInput>
+    </mat-form-field>
+    <br>
+
+    <button type="button" class="btn-log btn-ok btn btn-info btn-lg" [disabled]="!form.valid" (click)="loginClick()">התחבר</button>
+
+</form>
+
+<div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':display}">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">אינך קיים במערכת</h4>
+                <button type="button" class="close" aria-label="Close" (click)="onCloseHandled()"><span
+                        aria-hidden="true">&times;</span></button>
+                <!-- </div>   -->
+                <button type="button" class="btn btn-info btn-lg" [disabled]="!form.valid"
+                    (click)="loginClick()">התחבר</button>
+            </div>
+            <div class="modal-body">
+                <p>אנא וודא שאין טעות בשם המשתמש או בסיסמא</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" (click)="onCloseHandled()">סגור</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+

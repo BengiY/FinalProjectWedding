@@ -1,0 +1,40 @@
+<body>
+  <p *ngIf="hasList">לחץ לביצוע משימה</p>
+  <p *ngIf="showMessage" style="direction: rtl;;text-align: center;font-size: 40px;">אין לך  עדיין מטלות  <a href="/home">לחץ</a>כדי להוסיף</p>
+  <div class="line" style="cursor:pointer;" title="לחץ לביצוע המטלה"
+    *ngFor="let x of listWithBusinessName; let i=index">
+    <!-- <input type="checkbox" (change)="toggleEditable($event)"/> -->
+    <p (click)="openModal(x,i)" [ngStyle]="{'color':x.color}" [id]="x.ScheduleId">👌
+      נושא:<span>&nbsp;</span>{{x.Subject}} בתאריך: <span>&nbsp;</span>{{x.EventDate| date:
+      'dd/MM/yyyy'}}<span>&nbsp;</span> בשעה: {{x.Hour}} <span>&nbsp;</span> בבית
+      העסק:{{x.BusinessName}}<span>&nbsp;</span> תיאור המשימה: {{x.Description}}</p>
+  </div>
+
+  <div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':display}">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 style="font-size: 20px   " class="modal-title">{{title}}</h4>
+
+
+              <button type="button" class="btn-close" aria-label="Close" (click)="onCloseHandled()"></button>
+
+        </div>
+        <div *ngIf="ViewInputs">
+          <input style="cursor: pointer;" type="number" placeholder="כמה זמן ארכה לך המטלה בדקות?"
+            [(ngModel)]="detailsFromUser.Duration" />
+          <input style="cursor: pointer;" type="text" placeholder="עלות המטלה" [(ngModel)]="detailsFromUser.Cost" />
+        </div>
+        <div style="width: 80%;" class="a" *ngIf="ViewLoginOrRegister">
+          <p style="margin-right:20px;">בחר באחת מהאופציות הבאות:</p>
+          <a class="nav-link" routerLink="/login" routerLinkActive="active">התחברות</a>
+          <a class="nav-link" routerLink="/register" routerLinkActive="active">הרשמה</a>
+        </div>
+
+ 
+        <div class="modal-footer">
+          <button type="button" class="btn-ok btn-default btn-lg" (click)="onCloseHandled()">אישור</button>
+        </div>
+      </div>
+    </div>
+  </div>

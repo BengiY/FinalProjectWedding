@@ -1,0 +1,155 @@
+<div>
+  <form style=" margin-left: 70%;display:flex;" [formGroup]="form" class="form-horizontal">
+
+    <div class="form1" style="margin-left:130px; width:90%;height:100px;margin:10px;">
+      <div class="modal-body">
+  
+        <div class="border1">
+          <!-- <div class="form-row">
+              <input type="button" value="הוסף עסק" class="btn btn-primary" (click)="viewAddFunction()" />
+            </div><br> -->
+          <div>
+            <mat-form-field appearance="legacy">
+              <mat-label>הקש קוד בעל עסק</mat-label>
+              <input type="text" formControlName="BusinessOwnerCodeF" [(ngModel)]="newBusiness.BusinessOwnerCode" required
+                matInput>
+            </mat-form-field>
+            <!-- <div class="form-row">
+                <input type="text" placeholder="הקש קוד בעל העסק" formControlName="BusinessOwnerCodeF"
+                  class="form-control form-control-sm" [(ngModel)]="newBusiness.BusinessOwnerCode" />
+              </div>-->
+            <br>
+            <mat-form-field appearance="legacy">
+              <mat-label>הקש שם עסק</mat-label>
+              <input type="text" formControlName="BusinessNameF" [(ngModel)]="newBusiness.BusinessName" required matInput>
+            </mat-form-field>
+            <!-- <div class="form-row">
+                <input type="text" placeholder="הקש שם עסק" formControlName="BusinessNameF"
+                  class="form-control form-control-sm" [(ngModel)]="newBusiness.BusinessName" />
+                <br>
+              </div> -->
+  
+            <mat-form-field>
+              <mat-label>בחירת קטגוריה</mat-label>
+              <mat-select (selectionChange)="onSelectedCategory($event.value)">
+                <mat-option *ngFor="let x of arrCategory" [value]="x.CategoryCode">
+                  {{x.CategoryName}}
+                </mat-option>
+              </mat-select>
+            </mat-form-field>
+  
+            <!-- <div class="form-row">
+                <div class="form-group">
+                  <label style="direction: rtl;text-align: right;">בחירת קטגוריה</label><br>
+                  <select (change)="onSelectedCategory($event.target.value)" class="form-control form-control-sm">
+                    <option *ngFor="let x of arrCategory" [value]="x.CategoryCode" class="form-control form-control-sm">
+                      {{x.CategoryName}}</option>
+                  </select>
+                </div>
+              </div> -->
+            <br>
+            <mat-form-field appearance="legacy">
+              <mat-label>הקש כתובת מלאה</mat-label>
+              <input type="text" formControlName="FullAddressF" [(ngModel)]="newBusiness.FullAddress" required matInput>
+            </mat-form-field>
+            <!-- <div class="form-row">
+                <input type="text" placeholder="הקש כתובת מלאה" formControlName="FullAddressF"
+                  class="form-control form-control-sm" [(ngModel)]="newBusiness.FullAddress" />
+              </div> -->
+            <br>
+            <mat-form-field appearance="legacy">
+              <mat-label>הקש טלפון:</mat-label>
+              <input type="text" formControlName="PhoneF" [(ngModel)]="newBusiness.Fhone" required matInput>
+            </mat-form-field>
+            <!-- <div class="form-row">
+                <input type="text" placeholder="הקש טלפון העסק" formControlName="PhoneF"
+                  class="form-control form-control-sm" [(ngModel)]="newBusiness.Fhone" />
+              </div> -->
+            <br>
+            <mat-form-field class="example-full-width">
+              <mat-label>תיאור</mat-label>
+              <textarea name="BusinessDescription" (keyup)="onKey($event)" formControlName="BusinessDescriptionF"
+                id="BusinessDescription" [(ngModel)]="newBusiness.BusinessDescription" matInput></textarea>
+            </mat-form-field>
+  
+            <!-- <div class="form-row">
+                <textarea name="BusinessDescription" class="form-control form-control-sm" (keyup)="onKey($event)"
+                  formControlName="BusinessDescriptionF" id="BusinessDescription"
+                  [(ngModel)]="newBusiness.BusinessDescription">
+                      </textarea>
+              </div> -->
+            <br>
+            <div class="form-row">
+              <input type="button" value="הוסף עסק" class="btn-ok btn btn-primary" data-toggle="modal"
+                data-target="#addEvent" (click)="addBusiness()" />
+  
+            </div><br>
+  
+          </div>
+  
+        </div>
+      </div>
+    </div>
+  
+    <div *ngIf="showHour" class="form2" style="width:50%;height:100px;margin:10px;
+    display: inline-block;width: 35%;margin-left: 30%;" dir="rtl">
+      <h4 style="width: 100%;" class="modal-title" id="myModalLabel">הגדר שעות פתיחה</h4>
+
+      <div [formGroup]="form">
+        <div *ngFor="let x of daysArr">
+          <p>{{x}}</p>
+            <mat-form-field style="margin-left: 12px;" class="example-full-width">
+              <mat-label>שעת פתיחה</mat-label>
+              <input type="time" matInput  formControlName="startF" [(ngModel)]="start">
+            </mat-form-field>
+            <!-- <div class="form-row">
+              <input type="time" formControlName="startF" [(ngModel)]="start" class="form-control form-control-sm" />
+            </div> -->
+            <mat-form-field class="example-full-width">
+              <mat-label>שעת סגירה</mat-label>
+              <input type="time" matInput  formControlName="endF" [(ngModel)]="end">
+            </mat-form-field>
+            <!-- <p>שעת סגירה</p>
+            <div class="form-row">
+              <input type="time" formControlName="endF" [(ngModel)]="end" class="form-control form-control-sm" />
+            </div> -->
+            <div class="form-row">
+              <input type="button" style="font-size: 15px !important;" value="הוסף יום" class="btn-ok btn btn-primary" (click)="addDay(x)" />
+            </div>
+        </div>
+
+        <input type="button" value="אשר שעות פעילות" class="btn-ok btn btn-primary" (click)="addHours()" />
+
+      </div>
+    </div>
+  </form>
+  
+  
+  
+  
+
+  
+</div>
+<div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':display}">
+  <div class="modal-dialog" role="document">
+      <div style="direction: rtl;text-align: center;" class="modal-content">
+          <div class="modal-header">
+              <h4 class="modal-title">העסק נוסף בהצלחה</h4>
+              <button type="button" class="btn-close" aria-label="Close" (click)="onCloseHandled()"></button>
+
+          </div>
+          <div class="modal-body">
+            הגדר שעות פעילות של העסק
+          </div>
+          <div class="modal-footer">
+              <button type="button" class="btn-ok btn btn-default" (click)="onCloseHandled()">סגור</button>
+          </div>
+      </div>
+  </div>
+</div>
+
+    <!-- </div>
+
+
+  </div>
+</div> -->

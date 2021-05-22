@@ -1,0 +1,41 @@
+
+.app{
+    height: 100%;
+    width: 100%;
+margin: 0 auto;
+  // background: url(/../../assets/background-images/2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+
+
+  .navbar-nav a{
+    position: relative;
+    margin-top: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #886f24;;
+  }
+
+
+
+.navbar-brand{
+    background: radial-gradient(#cfc09f 22%, #eea31f 24%, #c8a35a 26%, #c0aa78 27%, #a4862c 40%, #3a2c0f 78%) !important;      -webkit-background-clip: text !important;
+      -webkit-text-fill-color: transparent !important;
+text-align: right;
+      text-transform: uppercase !important;
+      font-size: 2.3vw !important;
+      font-weight: 400 !important;
+      line-height: 25px;
+
+  }
+
+nav{
+    background-color: transparent !important;
+}
+
+a{
+    margin-left: 5px;
+  }

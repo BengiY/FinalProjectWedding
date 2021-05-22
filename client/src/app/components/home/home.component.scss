@@ -1,0 +1,91 @@
+body{
+    font-family: "MyFont";
+    margin-left: 6.5%;
+    background-color: transparent;
+}
+.row{
+    background:none;
+    margin: auto;
+}
+.col-md-10{
+    margin: auto;
+}
+// .ax-scheduler__month-view__day__label{
+//     background: none;
+//     color: yellow;
+// }
+.float-button{
+    background-color: black;
+   
+}
+.ax-scheduler__header {
+    border-bottom: none;
+    display: flex;
+    flex-direction: row;
+    font-size: 12px;
+    height: 60px;
+    padding-left: 30px;
+    text-transform: uppercase;
+    background-color: black;
+    direction: rtl;
+    font-size: 18px;
+
+
+}
+
+.ax-scheduler.dark {
+    background-color: #000000!important;
+    border: 2px dotted white;
+    border-radius: 5%;
+}
+
+.ax-scheduler {
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    display: block;
+    height: 85vh;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    user-select: none;
+}
+.ax-scheduler__header__nav-view-part button.active {
+    border-bottom: 2px solid  goldenrod!important;
+
+  }
+  .modal{
+      text-align: right;
+      direction: rtl;
+      margin-top: 100px;
+
+  }
+
+  .modal-footer{
+    margin: auto;
+
+  }
+
+  h4, p{
+    font-size: 20px;
+
+  }
+  a{
+color: black;  
+}
+
+.btn-close{
+    margin: inherit;
+
+}
+
+.plus{
+    font-size:36px ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}

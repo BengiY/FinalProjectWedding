@@ -1,0 +1,84 @@
+<form [formGroup]="form" class="form-horizontal justify-content-center">
+
+
+    <mat-form-field appearance="legacy">
+        <mat-label>שם פרטי</mat-label>
+        <input type="text" matInput placeholder="הקש שם פרטי" formControlName="FirstNameF"
+            [(ngModel)]="registerUser.UserName" />
+    </mat-form-field>
+    <br>
+
+
+    <mat-form-field appearance="legacy">
+        <mat-label>שם משפחה</mat-label>
+        <input type="text" placeholder="הקש שם משפחה" formControlName="LastNameF" matInput
+            [(ngModel)]="registerUser.UserLastName" />
+    </mat-form-field>
+    <br>
+
+    <mat-form-field appearance="legacy">
+        <mat-label>כתובת מייל</mat-label>
+        <input type="email" placeholder="הקש מייל" autocomplete="off" formControlName="EmailF" matInput
+            [(ngModel)]="registerUser.UserMail" />
+    </mat-form-field>
+    <br>
+
+
+    <mat-form-field appearance="legacy">
+        <mat-label>סיסמא</mat-label>
+        <input class="btn btn-outline-secondary mr-1" placement="right" ngbTooltip="הסיסמא חייבת להכיל לפחות אות אחת גדולה, אות אחת קטנה ומספר"
+         style="margin-right: 5px;" type="password" placeholder="הקש סיסמא" formControlName="PasswordF" matInput
+            [(ngModel)]="registerUser.UserPassword" />
+    </mat-form-field>
+    <!-- <button type="button" class="btn btn-outline-secondary mr-1" placement="right" ngbTooltip="הסיסמא חייבת להכיל לפחות אות אחת גדולה, אות אחת קטנה ומספר">
+        ❔
+      </button> -->
+    <br>
+
+    <mat-form-field appearance="legacy">
+        <mat-label>תאריך האירוע</mat-label>
+        <input type="date" formControlName="DateF" [(ngModel)]="eventToAdd.EventDate" matInput />
+    </mat-form-field>
+    <br>
+
+
+    <mat-radio-group name="radio" dir="rtl">
+        <mat-radio-button style="margin-right: 10px;" (change)="handleChange($event.value)" id="groom"
+            class="example-margin" [value]=" 'groom' ">🤵חתן
+        </mat-radio-button>
+        <br>
+        <mat-radio-button style="margin-right: 14px;" (change)="handleChange($event.value)" id="bride"
+            class="example-margin" [value]=" 'bride' ">👰 כלה
+        </mat-radio-button>
+    </mat-radio-group> <br>
+
+    <!-- <div class="newClass">
+        <input type="radio" id="groom" value="groom" name="radio" (change)="handleChange($event.target.value)" />
+        <label for="groom">🤵חתן</label>
+        <br>
+
+        <input type="radio" id="bride" value="bride" name="radio" (change)="handleChange($event.target.value)" /><label
+            for="bride">👰 כלה</label>
+        <br>
+    </div> -->
+
+    <button type="button" class="btn-log btn-ok btn btn-info btn-lg" [disabled]="!form.valid" (click)="registerClick()">הירשם</button>
+
+</form>
+
+
+<div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':display}">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">{{title}}</h4>
+                <button type="button" class="close" aria-label="Close" (click)="onCloseHandled()"><span
+                        aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body">
+
+
+            </div>
+        </div>
+    </div>
+</div>

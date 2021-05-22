@@ -1,0 +1,55 @@
+ 
+<body>
+  <!-- <a href="#" (click)="logout()" style="color: rgb(250, 250, 250);">{{userNow}}/{{text}}</a> -->
+  <!-- <input type="button" value="🔄" (click)="refrashScheduleList()"/> -->
+<div class="row">
+
+  <div class="col-md-10"> 
+    <a  href="#" (click)="logout()" style="color: black">{{userNow}}/{{text}}</a>
+    <!-- <input type="button" value="🔄" (click)="refrashScheduleList()"/> -->
+    <ng-template #t let-item="item">
+      <div class="event-template">
+        {{ item.data.title }}  <b> {{ item.from | date:'HH:mm' }} </b>
+      </div>
+    </ng-template>
+    <ax-scheduler [axEventTemplate]="model.eventTemplate ? t : null" [axSchedulerView]="'month'"
+      [axEventToolbar]="model.toolbar" [axAnimation]="model.animation" [axTheme]="model.theme" [axEvents]="events"
+      [axDragStep]="model.step" [axShowLocale]="model.locale" (axEventEditClick)="editEvent($event)"
+      (axEventDeleteClick)="removeEvent($event)">
+    </ax-scheduler>
+  </div>
+
+
+  </div> 
+
+
+<a (click)="editEvent()" class="float-button">
+  <p class="plus">+</p>
+</a>
+
+
+<div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':display}">
+  <div class="modal-dialog" role="document">
+      <div class="modal-content">
+          <div class="modal-header">
+              <h4 class="modal-title">{{title}}</h4>
+              <button type="button" class="btn-close" aria-label="Close" (click)="onCloseHandled()"></button>
+
+          </div>
+          <div class="modal-body">
+              <p>{{subject}}</p>
+              <p>{{info}}</p>
+              <ul *ngFor="let x of mustArr">
+                <li>{{x}}</li>
+              </ul>
+              <div *ngIf="viewNavigation">
+                <a class="nav-link" routerLink="/login" routerLinkActive="active">התחברות</a>
+                <a class="nav-link" routerLink="/register" routerLinkActive="active">הרשמה</a>
+              </div>
+          </div>
+          <div class="modal-footer">
+              <button type="button" class="btn-ok btn btn-default" (click)="onCloseHandled()">סגור</button>
+          </div>
+      </div>
+  </div>
+</div>

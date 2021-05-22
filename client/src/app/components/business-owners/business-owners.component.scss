@@ -1,0 +1,95 @@
+body{
+    font-family: "MyFont";
+}
+// form {
+//     // border: 2px dotted #aa8282;
+//     height: 50%;
+//     direction: rtl;
+//     text-align: right;
+//     margin-left: 20%;
+//     margin-bottom: 0%;
+//     padding-left: 0%;
+//     border: 2px double white;
+// }
+
+mat-form-field{
+    text-align: right;
+    font-size: 20px;
+   
+   }
+   mat-label{
+       font-size: 15px;
+   }
+form {
+    margin-right: 3%;
+    // height: 50%;
+    direction: rtl;
+    text-align: right;
+    margin-bottom: 0%;
+    padding-top: 2.5%;
+    // height: 50%;
+    text-align: right;
+    margin-left: 40%;
+    margin-bottom: 0%;
+    padding-right: 7%;
+    
+}
+.form-group {
+    text-align: right;
+}
+input {
+    direction: rtl;
+}
+.form-control {
+    border: 2px dotted goldenrod;
+    // padding-left: 50%;
+    margin-left: 80%;
+    border-radius: 17px;
+}
+
+.form-control:focus {
+    outline: medium;
+    border-color: #ffffff;
+    box-shadow: 0 0 25px #000000;
+}
+.btn {
+    background-color: #000000;
+    border: 2px dotted goldenrod;
+    border-radius: 17px;
+    color: white;
+}
+.btn:focus {
+    outline: medium;
+    border-color: #ffffff;
+    box-shadow: 0 0 3px #000000;
+}
+.newClass {
+    border-radius: 17px;
+    color: rgb(255, 255, 255);
+    border: 2px dotted goldenrod;
+    width: 100px;
+    text-align: center;
+}
+input[type='radio'] {
+    -webkit-appearance:none;
+    width:17px;
+    height:17px;
+    border:1px solid rgb(0, 0, 0);
+    border-radius:90%;
+    outline:none;
+    box-shadow:0 0 5px 0px gray inset;
+}
+input[type='radio']:hover {
+    box-shadow:0 0 5px 0px rgb(188, 108, 219) inset;
+}
+input[type='radio']:before {
+    content:'';
+    display:block;
+    width:50%;
+    height:50%;
+    margin: 20% auto;    
+    border-radius:50%;    
+}
+input[type='radio']:checked:before {
+    background:#000000;
+}

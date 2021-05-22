@@ -1,0 +1,66 @@
+body {
+    direction: rtl;
+    text-align: right;
+    font-family: "MyFont";
+
+  }
+  
+  .container-fluid {
+    overflow: hidden;
+    text-align: right;
+    background-color: rgb(25, 21, 25);
+    display:block;
+    right: calc(-50vw + 50%);
+  /* width: 100vw; */
+  position:sticky;
+  top:0;
+  padding-left: 0%;
+  }
+
+  .container-fluid a {
+    float: right;
+    color: #f2f2f2;
+    font-family: "MyFont";
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    text-align: right;
+  }
+
+
+
+  .container-fluid a.nav-link {
+
+    color: #ffffff;
+  }
+
+  li {
+    display: block;
+    margin-right: 180px;
+  }
+
+
+  .active {
+    enable-background: unset;
+    background-color:rgb(163, 72, 72);
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  img {
+    vertical-align: middle;
+    border-style: none;
+    margin-inline: 75px;
+
+}
+
+.nav{
+  height: 100%;
+  width: 100%;
+margin: 0 auto;
+}
